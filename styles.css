@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(199, 223, 226);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    justify-content: center;
+    margin: 50px 0px 100px 20px;
+    height:fit-content;
+}
+
+
+img{
+    height: 222px;
+    width: 400px;
+}
+p,ol,ul{
+    width: 550px;
+    color: black;
+}
+h1,h2,h3,.section,.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(20, 20, 171);
+}
+.btn{
+    font-size: 20px;
+    width: 120px;
+    height: 30px;
+    display: block;
+    text-decoration: none;
+    color: black;
+    background-color: antiquewhite;
+    border: black 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 6px;
+
+}
